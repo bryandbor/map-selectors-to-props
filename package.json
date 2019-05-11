@@ -61,5 +61,12 @@
   "files": [
     "dist"
   ],
-  "dependencies": {}
+  "dependencies": {},
+  "keywords": [
+    "redux",
+    "selector",
+    "mapStateToProps",
+    "state",
+    "react"
+  ]
 }
